@@ -2,5 +2,3 @@
 bower_components
 node_modules
 assets/css/app.css
-assets/fonts/**/*
-!assets/fonts
