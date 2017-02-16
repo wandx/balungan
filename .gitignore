@@ -1,5 +1,4 @@
 .sass-cache
 bower_components
-html/**/*
+html
 node_modules
-!html
